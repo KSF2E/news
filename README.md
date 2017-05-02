@@ -47,6 +47,7 @@ Hello 參與高雄前端開發者大會直播的朋友，大家好！
 
 1. 直播結束後，有購買票券者依然可重複觀看內容
 2. 直播網址如有更換將會在此公告
+3. 直播連結(需有購買票券)：https://www.youtube.com/watch?v=tKmGMK-CUJw
 
 高雄前端開發者大會
 http://www.ksf2e.com/

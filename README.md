@@ -50,3 +50,9 @@ Hello 參與高雄前端開發者大會直播的朋友，大家好！
 
 高雄前端開發者大會
 http://www.ksf2e.com/
+
+## 聊天室
+
+現場、直播共同參與的聊天室。
+
+https://gitter.im/ksf2etw/Lobby
